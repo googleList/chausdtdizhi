@@ -1,0 +1,30 @@
+{
+  "name": "usdt-address-lens",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "fetch:news": "node scripts/fetch-blockchain-news.mjs",
+    "check": "npm run lint && npm run test && npm run build"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.1.10",
+    "next": "^16.3.4",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^16.3.4",
+    "typescript": "^6.0.3",
+    "fast-xml-parser": "^5.11.1",
+    "vitest": "^3.2.4"
+  }
+}
