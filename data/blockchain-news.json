@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T06:02:41.981Z",
+  "generatedAt": "2026-09-28T06:33:42.239Z",
   "language": "zh-CN",
   "updateFrequency": "weekly",
   "copyrightNote": "本站根据公开 RSS 标题与摘要生成中文摘要和解读，不复制来源网站全文；每篇文章均保留原文链接。",
@@ -28,25 +28,25 @@
   "errors": [],
   "items": [
     {
-      "id": "ec447e15746dbc3d",
-      "slug": "2026-09-21-1",
-      "title": "韩亚银行利用欧洲清算银行的区块链技术发行1亿美元数字债券",
-      "originalTitle": "韩亚银行利用欧洲清算银行的区块链技术发行1亿美元数字债券",
-      "seoTitle": "韩亚银行利用欧洲清算银行的区块链技术发行1亿美元数字债券 | 区块链新闻",
-      "seoDescription": "韩亚银行利用欧洲清算银行的区块链技术发行1亿美元数字债券。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "id": "5e4fed8314af1f41",
+      "slug": "2026-09-28-california-s-newsom-signs-memecoin-ban-and-calls-it-th",
+      "title": "Blockchain 快讯：California's Newsom signs memecoin ban and calls it 'The Opposite of...",
+      "originalTitle": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
+      "seoTitle": "Blockchain 快讯：California's Newsom signs memecoin ban and calls it 'The Opposite of... | 区块链新闻",
+      "seoDescription": "Blockchain 快讯：California's Newsom signs memecoin ban and calls it 'The Opposite of...。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 CoinDesk 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
       "topic": "Blockchain",
       "keyword": "区块链新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c276-dc92-724d-b007-00c68eeaecdc",
-      "publishedAt": "2026-09-21T05:36:00.000Z",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump",
+      "publishedAt": "2026-09-28T06:21:52.000Z",
       "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，据 Cointelegraph 报道，韩国韩亚银行利用欧洲清算银行（Euroclear）的区块链技术发行了一笔为期五年、价值 1 亿美元的数字债券。这是韩国首笔直接使用 Euroclear 区块链基础设施发行的数字债券。该债券的发行、登记和结算均在分布式账本网络上进行。利用该技术进行债券分配和支付结算，将原本需要 3 到 5 个工作日的流程缩短到了当天完成。",
+      "summary": "The California Governor signed AB 2409 as part of an anti-corruption package, framing it as a response to President Trump's $TRUMP fiasco.",
       "sections": [
         {
           "title": "新闻概览",
           "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，据 Cointelegraph 报道，韩国韩亚银行利用欧洲清算银行（Euroclear）的区块链技术发行了一笔为期五年、价值 1 亿美元的数字债券。这是韩国首笔直接使用 Euroclear 区块链基础设施发行的数字债券。该债券的发行、登记和结算均在分布式账本网络上进行。利用该技术进行债券分配和支付结算，将原本需要 3 到 5 个工作日的流程缩短到了当天完成。",
+            "CoinDesk 发布的这条消息提到：The California Governor signed AB 2409 as part of an anti-corruption package, framing it as a response to President Trump's $TRUMP fiasco.",
             "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
           ]
         },
@@ -54,8 +54,8 @@
           "title": "关键信息",
           "points": [
             "主题方向：区块链新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
+            "信息来源：CoinDesk",
+            "发布时间：2026/09/28",
             "建议结合原文、链上浏览器和官方公告交叉确认"
           ]
         },
@@ -79,41 +79,500 @@
       ]
     },
     {
-      "id": "735440951452bf7a",
-      "slug": "2026-09-21-eth-9-2023",
-      "title": "分析师：币安平台上以太坊月均提币交易突破9万笔，创2023年以来新高",
-      "originalTitle": "分析师：币安平台上ETH月均提币交易突破9万笔，创2023年以来新高",
-      "seoTitle": "分析师：币安平台上以太坊月均提币交易突破9万笔，创2023年以来新高 | 以太坊新闻",
-      "seoDescription": "分析师：币安平台上以太坊月均提币交易突破9万笔，创2023年以来新高。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻与以太坊、ERC20 资产或智能合约生态有关，可帮助用户理解不同网络资产的差异。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Ethereum",
-      "keyword": "以太坊新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c263-38e9-7772-981e-3b3bc35ae3f8",
-      "publishedAt": "2026-09-21T05:14:00.000Z",
+      "id": "cce850d97437459f",
+      "slug": "2026-09-28-solana-etfs-draw-record-188-million-in-a-week-as-bitwi",
+      "title": "Blockchain 快讯：Solana ETFs draw record $188 million in a week as Bitwise takes two-...",
+      "originalTitle": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
+      "seoTitle": "Blockchain 快讯：Solana ETFs draw record $188 million in a week as Bitwise takes two-... | 区块链新闻",
+      "seoDescription": "Blockchain 快讯：Solana ETFs draw record $188 million in a week as Bitwise takes two-...。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 CoinDesk 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Blockchain",
+      "keyword": "区块链新闻",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
+      "publishedAt": "2026-09-28T06:21:06.000Z",
       "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，CryptoQuant 分析师 Darkfost 发文表示，过去三个月以太坊价格从约 1510 美元涨至 2650 美元，涨幅超 75%，并突破 4 月高点，表现强于尚未稳固站上 5 月高点的比特币。推动这一走势的关键因素是币安平台上 ETH 的囤积。币安平台上的 ETH 月均提币交易量已突破 9 万笔，创下 2023 年以来的新高，这一数字是年初水平的两倍。当 ETH 以这种方式流出币安等平台时，通常意味着许多投资者在买入后将其提取，转入私人托管方案中。这种行为模式反映了一种旨在中长...",
+      "summary": "All seven funds attracted money, while Friday’s $87 million intake set a daily record.",
       "sections": [
         {
           "title": "新闻概览",
           "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，CryptoQuant 分析师 Darkfost 发文表示，过去三个月以太坊价格从约 1510 美元涨至 2650 美元，涨幅超 75%，并突破 4 月高点，表现强于尚未稳固站上 5 月高点的比特币。推动这一走势的关键因素是币安平台上 ETH 的囤积。币安平台上的 ETH 月均提币交易量已突破 9 万笔，创下 2023 年以来的新高，这一数字是年初水平的两倍。当 ETH 以这种方式流出币安等平台时，通常意味着许多投资者在买入后将其提取，转入私人托管方案中。这种行为模式反映了一种旨在中长...",
+            "CoinDesk 发布的这条消息提到：All seven funds attracted money, while Friday’s $87 million intake set a daily record.",
             "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
           ]
         },
         {
           "title": "关键信息",
           "points": [
-            "主题方向：以太坊新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
+            "主题方向：区块链新闻",
+            "信息来源：CoinDesk",
+            "发布时间：2026/09/28",
             "建议结合原文、链上浏览器和官方公告交叉确认"
           ]
         },
         {
           "title": "对 USDT 与链上查询用户的参考意义",
           "paragraphs": [
-            "如果新闻涉及 ERC20 代币或 Gas 费用，转账时要区分 ERC20 与 TRC20，避免把同名资产发到错误网络。",
+            "阅读这类新闻时，应优先核对公开来源、事件时间和链上证据，避免只凭标题判断风险或机会。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "f8720552feb301fb",
+      "slug": "2026-09-28-capital-b-13-3538",
+      "title": "Capital B增持13枚比特币，目前共持有3538枚比特币",
+      "originalTitle": "Capital B增持13枚比特币，目前共持有3538枚比特币",
+      "seoTitle": "Capital B增持13枚比特币，目前共持有3538枚比特币 | 比特币新闻",
+      "seoDescription": "Capital B增持13枚比特币，目前共持有3538枚比特币。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Bitcoin",
+      "keyword": "比特币新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e6a1-44e3-778c-991d-c62d132cd216",
+      "publishedAt": "2026-09-28T06:08:00.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "PANews 9月28日消息，法国比特币财库公司 Capital B 以 97 万欧元购入 13 枚 BTC，目前共持有 3,538 枚 BTC，且年初至今（YTD）的 BTC 收益率为 2.20%。",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "PANews 发布的这条消息提到：PANews 9月28日消息，法国比特币财库公司 Capital B 以 97 万欧元购入 13 枚 BTC，目前共持有 3,538 枚 BTC，且年初至今（YTD）的 BTC 收益率为 2.20%。",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：比特币新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "比特币消息常会影响整个加密市场情绪，但单条新闻不能作为投资依据，仍需要结合链上数据和公开来源交叉判断。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "fe93030d96caa052",
+      "slug": "2026-09-28-nano-labs-x",
+      "title": "Nano Labs创始人X账号已恢复控制",
+      "originalTitle": "Nano Labs创始人X账号已恢复控制",
+      "seoTitle": "Nano Labs创始人X账号已恢复控制 | 区块链新闻",
+      "seoDescription": "Nano Labs创始人X账号已恢复控制。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Blockchain",
+      "keyword": "区块链新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e69c-3f40-7769-bb11-190a6cdaedde",
+      "publishedAt": "2026-09-28T06:03:00.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "PANews 9月28日消息，Nano Labs 创始人 Jack 孔表示，X 账号目前已成功恢复控制，此前曾遭遇钓鱼攻击。攻击者向其公开常用邮箱发送钓鱼邮件，AI 助手误将邮件中的虚假链接识别为 X 官方验证页面，导致其将 X 发送至绑定邮箱的验证码输入至钓鱼页面，最终造成账号被盗。 此前消息 ，Nano Labs创始人X账号遭攻击并发布虚假项目信息。",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "PANews 发布的这条消息提到：PANews 9月28日消息，Nano Labs 创始人 Jack 孔表示，X 账号目前已成功恢复控制，此前曾遭遇钓鱼攻击。攻击者向其公开常用邮箱发送钓鱼邮件，AI 助手误将邮件中的虚假链接识别为 X 官方验证页面，导致其将 X 发送至绑定邮箱的验证码输入至钓鱼页面，最终造成账号被盗。 此前消息 ，Nano Labs创始人X账号遭攻击并发布虚假项目信息。",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：区块链新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "阅读这类新闻时，应优先核对公开来源、事件时间和链上证据，避免只凭标题判断风险或机会。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "9ff9db43b3b29195",
+      "slug": "2026-09-28-usdt-gas",
+      "title": "币安钱包现已支持使用USDT支付Gas费",
+      "originalTitle": "币安钱包现已支持使用USDT支付Gas费",
+      "seoTitle": "币安钱包现已支持使用USDT支付Gas费 | USDT新闻",
+      "seoDescription": "币安钱包现已支持使用USDT支付Gas费。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻与 USDT、稳定币或链上资金流动相关，适合关注转账、钱包余额和稳定币使用风险的用户阅读。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "USDT",
+      "keyword": "USDT新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e68a-be08-7587-982f-90d9ae7ec1c0",
+      "publishedAt": "2026-09-28T05:44:00.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "PANews 9月28日消息，币安钱包发推表示，现已支持使用 USDT 支付 Gas 费，支持 BNB 智能链、以太坊、Solana 和波场。",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "PANews 发布的这条消息提到：PANews 9月28日消息，币安钱包发推表示，现已支持使用 USDT 支付 Gas 费，支持 BNB 智能链、以太坊、Solana 和波场。",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：USDT新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "对普通用户来说，重点不在短线价格，而在稳定币发行方、交易平台和链上转账规则是否出现变化。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "7452d39070dd8380",
+      "slug": "2026-09-28-south-korea-weighs-crypto-market-makers-after-jpyc-tra",
+      "title": "South Korea weighs 加密资产 市场 makers after JPYC trades at...",
+      "originalTitle": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
+      "seoTitle": "South Korea weighs 加密资产 市场 makers after JPYC trades at... | 区块链新闻",
+      "seoDescription": "South Korea weighs 加密资产 市场 makers after JPYC trades at...。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 Cointelegraph 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Blockchain",
+      "keyword": "区块链新闻",
+      "source": "Cointelegraph",
+      "sourceUrl": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-09-28T05:42:45.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "Crypto market making is effectively restricted under South Korea’s manipulation rules, but regulators are reconsidering the approach after a JPYC spiked on Upbit this month.",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "Cointelegraph 发布的这条消息提到：Crypto market making is effectively restricted under South Korea’s manipulation rules, but regulators are reconsidering the approach after a JPYC spiked on Upbit this month.",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：区块链新闻",
+            "信息来源：Cointelegraph",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "阅读这类新闻时，应优先核对公开来源、事件时间和链上证据，避免只凭标题判断风险或机会。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "b19e7e7d48fa8b1b",
+      "slug": "2026-09-28-2022-2023",
+      "title": "法巴银行：美联储不太可能重演2022-2023年的加息周期",
+      "originalTitle": "法巴银行：美联储不太可能重演2022-2023年的加息周期",
+      "seoTitle": "法巴银行：美联储不太可能重演2022-2023年的加息周期 | 区块链新闻",
+      "seoDescription": "法巴银行：美联储不太可能重演2022-2023年的加息周期。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Blockchain",
+      "keyword": "区块链新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e684-a997-7695-bf59-e6c56771d603",
+      "publishedAt": "2026-09-28T05:37:00.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "PANews 9月28日消息，据财联社报道，法巴银行策略师Chi Lo表示，尽管市场预期还会有两次加息，但美联储9月加息不太可能成为类似2022至2023年的新一轮紧缩周期的开始。相反，这可能标志着“预防性加息”的开始，旨在通过逆转去年的三次降息，将通胀拉回目标水平。 他表示，进一步加息不会化解战争和能源价格通胀等外部冲击，但会缓解金融市场对美联储抗通胀信誉的担忧。美联储不能一直对反复出现或未能如预期消退的冲击视而不见。然而，通过放缓经济其他领域的活动来抑制通胀压力，进一步加息也可能带来将经济推入滞胀的风险。",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "PANews 发布的这条消息提到：PANews 9月28日消息，据财联社报道，法巴银行策略师Chi Lo表示，尽管市场预期还会有两次加息，但美联储9月加息不太可能成为类似2022至2023年的新一轮紧缩周期的开始。相反，这可能标志着“预防性加息”的开始，旨在通过逆转去年的三次降息，将通胀拉回目标水平。 他表示，进一步加息不会化解战争和能源价格通胀等外部冲击，但会缓解金融市场对美联储抗通胀信誉的担忧。美联储不能一直对反复出现或未能如预期消退的冲击视而不见。然而，通过放缓经济其他领域的活动来抑制通胀压力，进一步加息也可能带来将经济推入滞胀的风险。",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：区块链新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "阅读这类新闻时，应优先核对公开来源、事件时间和链上证据，避免只凭标题判断风险或机会。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "77cfb3344282ddb8",
+      "slug": "2026-09-28-btc-83000-1-75",
+      "title": "比特币跌破83000美元，日内下跌 1.75%",
+      "originalTitle": "BTC跌破83000美元，日内下跌 1.75%",
+      "seoTitle": "比特币跌破83000美元，日内下跌 1.75% | 比特币新闻",
+      "seoDescription": "比特币跌破83000美元，日内下跌 1.75%。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Bitcoin",
+      "keyword": "比特币新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e680-f151-7701-994b-552117f603bc",
+      "publishedAt": "2026-09-28T05:33:25.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "PANews 9月28日消息，欧易OKX行情显示，BTC刚刚跌破83000美元，现报82987.00美元/枚，日内下跌 1.75%。",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "PANews 发布的这条消息提到：PANews 9月28日消息，欧易OKX行情显示，BTC刚刚跌破83000美元，现报82987.00美元/枚，日内下跌 1.75%。",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：比特币新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "比特币消息常会影响整个加密市场情绪，但单条新闻不能作为投资依据，仍需要结合链上数据和公开来源交叉判断。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "556b2645f5bba5da",
+      "slug": "2026-09-28-upbit-btc-usdt-cashcat",
+      "title": "Upbit将在韩元、比特币、USDT市场上线CASHCAT代币",
+      "originalTitle": "Upbit将在韩元、BTC、USDT市场上线CASHCAT代币",
+      "seoTitle": "Upbit将在韩元、比特币、USDT市场上线CASHCAT代币 | USDT新闻",
+      "seoDescription": "Upbit将在韩元、比特币、USDT市场上线CASHCAT代币。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻与 USDT、稳定币或链上资金流动相关，适合关注转账、钱包余额和稳定币使用风险的用户阅读。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "USDT",
+      "keyword": "USDT新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e67b-47f5-7365-bb2d-8ced0cf0f0b4",
+      "publishedAt": "2026-09-28T05:27:04.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "PANews 9月28日消息，据官方公告，韩国加密交易所Upbit将在韩元、BTC、USDT市场上线CASHCAT代币，交易将于当地时间9月28日17:00开始。",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "PANews 发布的这条消息提到：PANews 9月28日消息，据官方公告，韩国加密交易所Upbit将在韩元、BTC、USDT市场上线CASHCAT代币，交易将于当地时间9月28日17:00开始。",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：USDT新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "对普通用户来说，重点不在短线价格，而在稳定币发行方、交易平台和链上转账规则是否出现变化。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "173c9710d4f4d522",
+      "slug": "2026-09-28-spcxb-marscoin-qqqb",
+      "title": "币安将支持SPCXB对MARSCOIN、QQQB对牛来持币用户空投计划",
+      "originalTitle": "币安将支持SPCXB对MARSCOIN、QQQB对牛来持币用户空投计划",
+      "seoTitle": "币安将支持SPCXB对MARSCOIN、QQQB对牛来持币用户空投计划 | 区块链新闻",
+      "seoDescription": "币安将支持SPCXB对MARSCOIN、QQQB对牛来持币用户空投计划。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Blockchain",
+      "keyword": "区块链新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e674-b684-73cb-ae53-70eecf83e601",
+      "publishedAt": "2026-09-28T05:19:00.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "PANews 9月28日消息，据官方公告，币安将支持 SpaceX(SPCXB) 对 MarsCoin(MARSCOIN) 持币用户的空投计划，以及 Invesco QQQ Trust(QQQB) 对牛来(牛来)持币用户的空投计划。",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "PANews 发布的这条消息提到：PANews 9月28日消息，据官方公告，币安将支持 SpaceX(SPCXB) 对 MarsCoin(MARSCOIN) 持币用户的空投计划，以及 Invesco QQQ Trust(QQQB) 对牛来(牛来)持币用户的空投计划。",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：区块链新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "阅读这类新闻时，应优先核对公开来源、事件时间和链上证据，避免只凭标题判断风险或机会。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "d06ba9fd76d9edf3",
+      "slug": "2026-09-28-d06ba9fd76d9edf3",
+      "title": "分析师：比特币需求尚未出现改善，反而进一步走弱",
+      "originalTitle": "分析师：比特币需求尚未出现改善，反而进一步走弱",
+      "seoTitle": "分析师：比特币需求尚未出现改善，反而进一步走弱 | 比特币新闻",
+      "seoDescription": "分析师：比特币需求尚未出现改善，反而进一步走弱。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Bitcoin",
+      "keyword": "比特币新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e672-363b-7636-9b2b-c6b63a71663b",
+      "publishedAt": "2026-09-28T05:17:00.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "PANews 9月28日消息，CryptoQuant 分析师 Darkfost 发文指出，比特币需求尚未出现改善，反而进一步走弱。期货需求已从 16.4 万枚 BTC 降至仅 3000 枚；现货需求仍维持在-17.4 万枚 BTC 的负值水平，尽管 ETF 流入强劲。这使总需求估计（30 日累计）降至-17.1 万枚 BTC。与此同时，过去 15 天比特币价格仍从 7.4 万美元上涨至 8.4 万美元。",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "PANews 发布的这条消息提到：PANews 9月28日消息，CryptoQuant 分析师 Darkfost 发文指出，比特币需求尚未出现改善，反而进一步走弱。期货需求已从 16.4 万枚 BTC 降至仅 3000 枚；现货需求仍维持在-17.4 万枚 BTC 的负值水平，尽管 ETF 流入强劲。这使总需求估计（30 日累计）降至-17.1 万枚 BTC。与此同时，过去 15 天比特币价格仍从 7.4 万美元上涨至 8.4 万美元。",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：比特币新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "比特币消息常会影响整个加密市场情绪，但单条新闻不能作为投资依据，仍需要结合链上数据和公开来源交叉判断。",
             "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
           ]
         }
@@ -131,17 +590,17 @@
     },
     {
       "id": "7b1cea512b7cd270",
-      "slug": "2026-09-21-here-s-what-happened-in-crypto-today",
+      "slug": "2026-09-28-here-s-what-happened-in-crypto-today",
       "title": "Here’s what happened in 加密资产 today",
       "originalTitle": "Here’s what happened in crypto today",
       "seoTitle": "Here’s what happened in 加密资产 today | 比特币新闻",
       "seoDescription": "Here’s what happened in 加密资产 today。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 Cointelegraph 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 Cointelegraph 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
       "topic": "Bitcoin",
       "keyword": "比特币新闻",
       "source": "Cointelegraph",
       "sourceUrl": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-09-21T04:44:48.000Z",
+      "publishedAt": "2026-09-28T04:57:00.000Z",
       "readTime": "约 3 分钟",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "sections": [
@@ -157,7 +616,7 @@
           "points": [
             "主题方向：比特币新闻",
             "信息来源：Cointelegraph",
-            "发布时间：2026/09/21",
+            "发布时间：2026/09/28",
             "建议结合原文、链上浏览器和官方公告交叉确认"
           ]
         },
@@ -181,127 +640,25 @@
       ]
     },
     {
-      "id": "f37f4848dd1f22e1",
-      "slug": "2026-09-21-bitcoin-reclaims-50-week-moving-average-as-analysts-ey",
-      "title": "比特币 reclaims 50-week moving average as analysts eye en...",
-      "originalTitle": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
-      "seoTitle": "比特币 reclaims 50-week moving average as analysts eye en... | 比特币新闻",
-      "seoDescription": "比特币 reclaims 50-week moving average as analysts eye en...。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 Cointelegraph 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Bitcoin",
-      "keyword": "比特币新闻",
-      "source": "Cointelegraph",
-      "sourceUrl": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-09-21T04:29:59.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "Bitcoin’s move above its 50-week moving average has historically marked the end of bear markets, but analysts say one weekly close isn’t enough to confirm a new bull run.",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "Cointelegraph 发布的这条消息提到：Bitcoin’s move above its 50-week moving average has historically marked the end of bear markets, but analysts say one weekly close isn’t enough to confirm a new bull run.",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：比特币新闻",
-            "信息来源：Cointelegraph",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "比特币消息常会影响整个加密市场情绪，但单条新闻不能作为投资依据，仍需要结合链上数据和公开来源交叉判断。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "a3d736e30571538f",
-      "slug": "2026-09-21-hana-bank-taps-euroclear-blockchain-for-100m-bond-issu",
-      "title": "Hana Bank taps Euroclear 区块链 for $100M bond issuance: ...",
-      "originalTitle": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
-      "seoTitle": "Hana Bank taps Euroclear 区块链 for $100M bond issuance: ... | 区块链新闻",
-      "seoDescription": "Hana Bank taps Euroclear 区块链 for $100M bond issuance: ...。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 Cointelegraph 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Blockchain",
-      "keyword": "区块链新闻",
-      "source": "Cointelegraph",
-      "sourceUrl": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-09-21T04:27:32.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Euroclear’s blockchain infrastructure.",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "Cointelegraph 发布的这条消息提到：The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Euroclear’s blockchain infrastructure.",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：区块链新闻",
-            "信息来源：Cointelegraph",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "阅读这类新闻时，应优先核对公开来源、事件时间和链上证据，避免只凭标题判断风险或机会。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "57204c1e16211c1d",
-      "slug": "2026-09-21-5",
-      "title": "三星电子股价大涨5%，创两周以来最大单日涨幅",
-      "originalTitle": "三星电子股价大涨5%，创两周以来最大单日涨幅",
-      "seoTitle": "三星电子股价大涨5%，创两周以来最大单日涨幅 | 区块链新闻",
-      "seoDescription": "三星电子股价大涨5%，创两周以来最大单日涨幅。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "id": "d860714d21fb33f1",
+      "slug": "2026-09-28-openai-ai-meta-muse",
+      "title": "OpenAI或将紧急推出个人AI助手，以正面迎战Meta Muse",
+      "originalTitle": "OpenAI或将紧急推出个人AI助手，以正面迎战Meta Muse",
+      "seoTitle": "OpenAI或将紧急推出个人AI助手，以正面迎战Meta Muse | 区块链新闻",
+      "seoDescription": "OpenAI或将紧急推出个人AI助手，以正面迎战Meta Muse。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
       "topic": "Blockchain",
       "keyword": "区块链新闻",
       "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c22b-f967-742e-ae11-26cd9e8d3a58",
-      "publishedAt": "2026-09-21T04:14:00.000Z",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e65f-76ff-7014-8448-1a110a843ddc",
+      "publishedAt": "2026-09-28T04:56:00.000Z",
       "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，三星电子股价大涨5%，创下两周以来最大单日涨幅，领涨韩国综合指数。",
+      "summary": "PANews 9月28日消息，据财联社报道，面对日益激烈的AI智能体竞赛，OpenAI据悉正加紧准备，即将推出一款名为\"o\"的常驻AI助手，以正面迎战Meta Muse。OpenAI已在ChatGPT Pro相关产品文档中加入\"o\"的品牌标识，这预示着正式发布迫在眉睫，可能会在本周二（9月29日）的开发者大会上亮相。",
       "sections": [
         {
           "title": "新闻概览",
           "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，三星电子股价大涨5%，创下两周以来最大单日涨幅，领涨韩国综合指数。",
+            "PANews 发布的这条消息提到：PANews 9月28日消息，据财联社报道，面对日益激烈的AI智能体竞赛，OpenAI据悉正加紧准备，即将推出一款名为\"o\"的常驻AI助手，以正面迎战Meta Muse。OpenAI已在ChatGPT Pro相关产品文档中加入\"o\"的品牌标识，这预示着正式发布迫在眉睫，可能会在本周二（9月29日）的开发者大会上亮相。",
             "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
           ]
         },
@@ -310,7 +667,7 @@
           "points": [
             "主题方向：区块链新闻",
             "信息来源：PANews",
-            "发布时间：2026/09/21",
+            "发布时间：2026/09/28",
             "建议结合原文、链上浏览器和官方公告交叉确认"
           ]
         },
@@ -334,25 +691,229 @@
       ]
     },
     {
-      "id": "894e83fde999b312",
-      "slug": "2026-09-21-bitcoin-rises-above-81-000-while-near-jumps-23-on-zcas",
-      "title": "比特币 rises above $81,000, while NEAR jumps 23% on Zcash...",
-      "originalTitle": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
-      "seoTitle": "比特币 rises above $81,000, while NEAR jumps 23% on Zcash... | 比特币新闻",
-      "seoDescription": "比特币 rises above $81,000, while NEAR jumps 23% on Zcash...。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 CoinDesk 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Bitcoin",
-      "keyword": "比特币新闻",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
-      "publishedAt": "2026-09-21T04:03:43.000Z",
+      "id": "2cf82a1394d90cdb",
+      "slug": "2026-09-28-u-tradfi",
+      "title": "币安将上线多个U本位 TradFi 永续合约",
+      "originalTitle": "币安将上线多个U本位 TradFi 永续合约",
+      "seoTitle": "币安将上线多个U本位 TradFi 永续合约 | USDT新闻",
+      "seoDescription": "币安将上线多个U本位 TradFi 永续合约。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻与 USDT、稳定币或链上资金流动相关，适合关注转账、钱包余额和稳定币使用风险的用户阅读。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "USDT",
+      "keyword": "USDT新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e65b-ba7c-77e7-9411-6af8d095e3c1",
+      "publishedAt": "2026-09-28T04:52:00.000Z",
       "readTime": "约 3 分钟",
-      "summary": "Bitcoin extended a slow climb through the Asian session while regional equities and U.S. stock futures rose on progress in trade talks between Washington and Beijing.",
+      "summary": "PANews 9月28日消息，据官方公告，币安将于 9 月 28 日 17:00 至 17:20（东八区时间）期间，陆续上线 OKLOUSDT、TWSTUSDT、CVNAUSDT、RUMUSDT、XOMUSDT 五个 U 本位永续合约，最高支持 20 倍杠杆。",
       "sections": [
         {
           "title": "新闻概览",
           "paragraphs": [
-            "CoinDesk 发布的这条消息提到：Bitcoin extended a slow climb through the Asian session while regional equities and U.S. stock futures rose on progress in trade talks between Washington and Beijing.",
+            "PANews 发布的这条消息提到：PANews 9月28日消息，据官方公告，币安将于 9 月 28 日 17:00 至 17:20（东八区时间）期间，陆续上线 OKLOUSDT、TWSTUSDT、CVNAUSDT、RUMUSDT、XOMUSDT 五个 U 本位永续合约，最高支持 20 倍杠杆。",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：USDT新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "对普通用户来说，重点不在短线价格，而在稳定币发行方、交易平台和链上转账规则是否出现变化。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "6f057f28b1e4bf5d",
+      "slug": "2026-09-28-bithumb-pyusd",
+      "title": "Bithumb将在韩元市场上线PYUSD代币",
+      "originalTitle": "Bithumb将在韩元市场上线PYUSD代币",
+      "seoTitle": "Bithumb将在韩元市场上线PYUSD代币 | 区块链新闻",
+      "seoDescription": "Bithumb将在韩元市场上线PYUSD代币。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Blockchain",
+      "keyword": "区块链新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e65b-9be9-754c-a53c-c00f2de62408",
+      "publishedAt": "2026-09-28T04:51:30.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "PANews 9月28日消息，据官方公告，韩国加密交易所Bithumb将在韩元市场上线PYUSD代币，交易预计于当地时间15:00开放。",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "PANews 发布的这条消息提到：PANews 9月28日消息，据官方公告，韩国加密交易所Bithumb将在韩元市场上线PYUSD代币，交易预计于当地时间15:00开放。",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：区块链新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "阅读这类新闻时，应优先核对公开来源、事件时间和链上证据，避免只凭标题判断风险或机会。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "6442ca40880f3130",
+      "slug": "2026-09-28-vitalik-buterin-says-hegot-could-be-ethereum-s-last-no",
+      "title": "Vitalik Buterin says Hegotá could be 以太坊’s last ‘norma...",
+      "originalTitle": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
+      "seoTitle": "Vitalik Buterin says Hegotá could be 以太坊’s last ‘norma... | 以太坊新闻",
+      "seoDescription": "Vitalik Buterin says Hegotá could be 以太坊’s last ‘norma...。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻与以太坊、ERC20 资产或智能合约生态有关，可帮助用户理解不同网络资产的差异。 本文根据 Cointelegraph 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Ethereum",
+      "keyword": "以太坊新闻",
+      "source": "Cointelegraph",
+      "sourceUrl": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-09-28T04:44:15.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "Ethereum’s Vitalik Buterin said PeerDAS marked the start of Ethereum’s transition “from being just a blockchain to being something much more powerful.”",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "Cointelegraph 发布的这条消息提到：Ethereum’s Vitalik Buterin said PeerDAS marked the start of Ethereum’s transition “from being just a blockchain to being something much more powerful.”",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：以太坊新闻",
+            "信息来源：Cointelegraph",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "如果新闻涉及 ERC20 代币或 Gas 费用，转账时要区分 ERC20 与 TRC20，避免把同名资产发到错误网络。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "0c2d5ff66d694ddb",
+      "slug": "2026-09-28-circle",
+      "title": "Circle计划在韩国拓展稳定币生态，招聘生态增长高级总监",
+      "originalTitle": "Circle计划在韩国拓展稳定币生态，招聘生态增长高级总监",
+      "seoTitle": "Circle计划在韩国拓展稳定币生态，招聘生态增长高级总监 | 区块链新闻",
+      "seoDescription": "Circle计划在韩国拓展稳定币生态，招聘生态增长高级总监。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Blockchain",
+      "keyword": "区块链新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e62d-3770-773a-b368-bfa7ee4212b2",
+      "publishedAt": "2026-09-28T04:01:00.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "PANews 9月28日消息，据 Digital Asset 报道，Circle 正推进韩国稳定币生态扩张，公开招聘常驻韩国的生态增长高级总监。该职位主要负责制定韩国市场进入战略、与本地金融及数字资产行业合作、跟踪监管动态，并识别 USDC 及相关基础设施在韩国的应用机会。 Circle 此前在 7 月发布的韩国市场报告中表示，更倾向于与本地韩元稳定币发行方合作，并提供连接美元稳定币的基础设施，而非直接在韩国发行韩元稳定币。",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "PANews 发布的这条消息提到：PANews 9月28日消息，据 Digital Asset 报道，Circle 正推进韩国稳定币生态扩张，公开招聘常驻韩国的生态增长高级总监。该职位主要负责制定韩国市场进入战略、与本地金融及数字资产行业合作、跟踪监管动态，并识别 USDC 及相关基础设施在韩国的应用机会。 Circle 此前在 7 月发布的韩国市场报告中表示，更倾向于与本地韩元稳定币发行方合作，并提供连接美元稳定币的基础设施，而非直接在韩国发行韩元稳定币。",
+            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
+          ]
+        },
+        {
+          "title": "关键信息",
+          "points": [
+            "主题方向：区块链新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
+            "建议结合原文、链上浏览器和官方公告交叉确认"
+          ]
+        },
+        {
+          "title": "对 USDT 与链上查询用户的参考意义",
+          "paragraphs": [
+            "阅读这类新闻时，应优先核对公开来源、事件时间和链上证据，避免只凭标题判断风险或机会。",
+            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "这篇文章是原文全文翻译吗？",
+          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
+        },
+        {
+          "question": "新闻能证明某个地址安全吗？",
+          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
+        }
+      ]
+    },
+    {
+      "id": "72ae6284d029b3da",
+      "slug": "2026-09-28-bitcoin-nasdaq-futures-decline-as-trump-won-t-rule-out",
+      "title": "比特币, Nasdaq futures decline as Trump won’t rule out mo...",
+      "originalTitle": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
+      "seoTitle": "比特币, Nasdaq futures decline as Trump won’t rule out mo... | 比特币新闻",
+      "seoDescription": "比特币, Nasdaq futures decline as Trump won’t rule out mo...。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 CoinDesk 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "Bitcoin",
+      "keyword": "比特币新闻",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
+      "publishedAt": "2026-09-28T03:58:52.000Z",
+      "readTime": "约 3 分钟",
+      "summary": "Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon.",
+      "sections": [
+        {
+          "title": "新闻概览",
+          "paragraphs": [
+            "CoinDesk 发布的这条消息提到：Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon.",
             "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
           ]
         },
@@ -361,7 +922,7 @@
           "points": [
             "主题方向：比特币新闻",
             "信息来源：CoinDesk",
-            "发布时间：2026/09/21",
+            "发布时间：2026/09/28",
             "建议结合原文、链上浏览器和官方公告交叉确认"
           ]
         },
@@ -385,41 +946,41 @@
       ]
     },
     {
-      "id": "a4ce3d7c62dea634",
-      "slug": "2026-09-21-bitcoin-s-price-has-cleared-a-key-hurdle-that-has-hist",
-      "title": "比特币’s 价格 has cleared a key hurdle that has historicall...",
-      "originalTitle": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
-      "seoTitle": "比特币’s 价格 has cleared a key hurdle that has historicall... | 比特币新闻",
-      "seoDescription": "比特币’s 价格 has cleared a key hurdle that has historicall...。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 CoinDesk 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Bitcoin",
-      "keyword": "比特币新闻",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
-      "publishedAt": "2026-09-21T03:56:23.000Z",
+      "id": "753cdf931e4fa1ec",
+      "slug": "2026-09-28-gate-7-1-18",
+      "title": "Gate 7 日净流入超 1.18 亿美元，位居全球中心化交易所第三",
+      "originalTitle": "Gate 7 日净流入超 1.18 亿美元，位居全球中心化交易所第三",
+      "seoTitle": "Gate 7 日净流入超 1.18 亿美元，位居全球中心化交易所第三 | DeFi新闻",
+      "seoDescription": "Gate 7 日净流入超 1.18 亿美元，位居全球中心化交易所第三。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻涉及 DeFi 协议、链上应用或智能合约资金活动，适合关注钱包授权与链上风险的用户阅读。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "topic": "DeFi",
+      "keyword": "DeFi新闻",
+      "source": "PANews",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e617-d2d3-74f1-86ea-6fb9eda0c365",
+      "publishedAt": "2026-09-28T03:37:00.000Z",
       "readTime": "约 3 分钟",
-      "summary": "Bitcoin's price has topped its 50-week average for the first time in 45 weeks, a major bullish signal.",
+      "summary": "PANews 9月28日消息，据 DefiLlama 数据显示，Gate 近 7 日资金净流入超 1.18 亿美元，位居全球中心化交易所第三。",
       "sections": [
         {
           "title": "新闻概览",
           "paragraphs": [
-            "CoinDesk 发布的这条消息提到：Bitcoin's price has topped its 50-week average for the first time in 45 weeks, a major bullish signal.",
+            "PANews 发布的这条消息提到：PANews 9月28日消息，据 DefiLlama 数据显示，Gate 近 7 日资金净流入超 1.18 亿美元，位居全球中心化交易所第三。",
             "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
           ]
         },
         {
           "title": "关键信息",
           "points": [
-            "主题方向：比特币新闻",
-            "信息来源：CoinDesk",
-            "发布时间：2026/09/21",
+            "主题方向：DeFi新闻",
+            "信息来源：PANews",
+            "发布时间：2026/09/28",
             "建议结合原文、链上浏览器和官方公告交叉确认"
           ]
         },
         {
           "title": "对 USDT 与链上查询用户的参考意义",
           "paragraphs": [
-            "比特币消息常会影响整个加密市场情绪，但单条新闻不能作为投资依据，仍需要结合链上数据和公开来源交叉判断。",
+            "DeFi 相关事件通常需要重点关注授权、合约风险和资金流向。查询地址时只能看到公开记录，不能直接证明身份或安全结论。",
             "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
           ]
         }
@@ -436,25 +997,25 @@
       ]
     },
     {
-      "id": "ec2d99e47a58f37e",
-      "slug": "2026-09-21-xrp-etf-955-92",
-      "title": "XRP现货 ETF 上周净流入 955.92 万美元",
-      "originalTitle": "XRP现货 ETF 上周净流入 955.92 万美元",
-      "seoTitle": "XRP现货 ETF 上周净流入 955.92 万美元 | 区块链新闻",
-      "seoDescription": "XRP现货 ETF 上周净流入 955.92 万美元。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "id": "7e3972d686117751",
+      "slug": "2026-09-28-hype-106-424",
+      "title": "某地址因HYPE价格下跌被强平106万美元，目前仍持有424万美元多头仓位",
+      "originalTitle": "某地址因HYPE价格下跌被强平106万美元，目前仍持有424万美元多头仓位",
+      "seoTitle": "某地址因HYPE价格下跌被强平106万美元，目前仍持有424万美元多头仓位 | 区块链新闻",
+      "seoDescription": "某地址因HYPE价格下跌被强平106万美元，目前仍持有424万美元多头仓位。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
       "topic": "Blockchain",
       "keyword": "区块链新闻",
       "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c20f-9d25-7017-8548-1ca1edab6ddc",
-      "publishedAt": "2026-09-21T03:43:00.000Z",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e615-a6e2-7465-a60f-4c8a5688fe1b",
+      "publishedAt": "2026-09-28T03:35:00.000Z",
       "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，据 SoSoValue 数据，上周交易日（美东时间 9月14日至9月18日）XRP现货 ETF 净流入 955.92 万美元。 上周净流入最多的XRP现货 ETF 为 Bitwise ETF XRP，周度净流入为 969.15 万美元，目前 XRP 历史总净流入达 6.18 亿美元；其次为富兰克林邓普顿（Franklin Templeton）ETF XRPZ，周度净流入为 502.12 万美元，目前 XRPZ 历史总净流入达 4.84 亿美元。",
+      "summary": "PANews 9月28日消息，据 Lookonchain 监测，随着 HYPE 价格下跌，HYPE 多头仓位正遭遇清算。地址 0x1add 在一小时前有 11,796 枚 HYPE（价值 106 万美元）的仓位被清算，目前仍持有 47,184 枚 HYPE（价值 424 万美元）的多头仓位。新的清算价格为 88.50 美元。",
       "sections": [
         {
           "title": "新闻概览",
           "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，据 SoSoValue 数据，上周交易日（美东时间 9月14日至9月18日）XRP现货 ETF 净流入 955.92 万美元。 上周净流入最多的XRP现货 ETF 为 Bitwise ETF XRP，周度净流入为 969.15 万美元，目前 XRP 历史总净流入达 6.18 亿美元；其次为富兰克林邓普顿（Franklin Templeton）ETF XRPZ，周度净流入为 502.12 万美元，目前 XRPZ 历史总净流入达 4.84 亿美元。",
+            "PANews 发布的这条消息提到：PANews 9月28日消息，据 Lookonchain 监测，随着 HYPE 价格下跌，HYPE 多头仓位正遭遇清算。地址 0x1add 在一小时前有 11,796 枚 HYPE（价值 106 万美元）的仓位被清算，目前仍持有 47,184 枚 HYPE（价值 424 万美元）的多头仓位。新的清算价格为 88.50 美元。",
             "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
           ]
         },
@@ -463,7 +1024,7 @@
           "points": [
             "主题方向：区块链新闻",
             "信息来源：PANews",
-            "发布时间：2026/09/21",
+            "发布时间：2026/09/28",
             "建议结合原文、链上浏览器和官方公告交叉确认"
           ]
         },
@@ -487,25 +1048,25 @@
       ]
     },
     {
-      "id": "49c84f85a88aa636",
-      "slug": "2026-09-21-hype-etf-306-45",
-      "title": "HYPE现货 ETF 上周净流入 306.45 万美元",
-      "originalTitle": "HYPE现货 ETF 上周净流入 306.45 万美元",
-      "seoTitle": "HYPE现货 ETF 上周净流入 306.45 万美元 | 区块链新闻",
-      "seoDescription": "HYPE现货 ETF 上周净流入 306.45 万美元。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "id": "d802842600dff7ef",
+      "slug": "2026-09-28-50-10-96",
+      "title": "韩国虚拟资产交易量过去一年下降超50%，前10%用户贡献96%交易额",
+      "originalTitle": "韩国虚拟资产交易量过去一年下降超50%，前10%用户贡献96%交易额",
+      "seoTitle": "韩国虚拟资产交易量过去一年下降超50%，前10%用户贡献96%交易额 | 区块链新闻",
+      "seoDescription": "韩国虚拟资产交易量过去一年下降超50%，前10%用户贡献96%交易额。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
       "topic": "Blockchain",
       "keyword": "区块链新闻",
       "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c210-314e-760d-a3e0-42378b435346",
-      "publishedAt": "2026-09-21T03:43:00.000Z",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e602-b9c5-7342-bdfb-f72e4ef63080",
+      "publishedAt": "2026-09-28T03:15:00.000Z",
       "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，据 SoSoValue 数据，上周交易日（美东时间 9月14日至9月18日）HYPE现货 ETF 净流入 306.45 万美元。 上周净流入最多的HYPE现货 ETF 为21Shares ETF THYP，周度净流入为 239.55 万美元，目前 THYP 历史总净流入达 5269.00 万美元；其次为灰度（Grayscale）ETF HYPG，周度净流入为 166.90 万美元，目前 HYPG 历史总净流入达 1.41 亿美元。",
+      "summary": "PANews 9月28日消息，据 Digital Asset 报道，过去一年间，尽管韩国虚拟资产交易量下降了超过 50%，但排名前 10% 的用户却贡献了总交易量的 96% 以上，交易活动加剧集中。 韩国金融监督院（FSS）向共同民主党议员朴洪培办公室提交的数据显示，2026 年上半年各交易所的交易集中度如下：Upbit（95.6%）、Bithumb（97.41%）、Coinone（99.2%）、Digital X（99.43%）和Gopax（97.61%）。交易集中度是指排名前 10% 的用户在交易所总交易量中所...",
       "sections": [
         {
           "title": "新闻概览",
           "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，据 SoSoValue 数据，上周交易日（美东时间 9月14日至9月18日）HYPE现货 ETF 净流入 306.45 万美元。 上周净流入最多的HYPE现货 ETF 为21Shares ETF THYP，周度净流入为 239.55 万美元，目前 THYP 历史总净流入达 5269.00 万美元；其次为灰度（Grayscale）ETF HYPG，周度净流入为 166.90 万美元，目前 HYPG 历史总净流入达 1.41 亿美元。",
+            "PANews 发布的这条消息提到：PANews 9月28日消息，据 Digital Asset 报道，过去一年间，尽管韩国虚拟资产交易量下降了超过 50%，但排名前 10% 的用户却贡献了总交易量的 96% 以上，交易活动加剧集中。 韩国金融监督院（FSS）向共同民主党议员朴洪培办公室提交的数据显示，2026 年上半年各交易所的交易集中度如下：Upbit（95.6%）、Bithumb（97.41%）、Coinone（99.2%）、Digital X（99.43%）和Gopax（97.61%）。交易集中度是指排名前 10% 的用户在交易所总交易量中所...",
             "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
           ]
         },
@@ -514,7 +1075,7 @@
           "points": [
             "主题方向：区块链新闻",
             "信息来源：PANews",
-            "发布时间：2026/09/21",
+            "发布时间：2026/09/28",
             "建议结合原文、链上浏览器和官方公告交叉确认"
           ]
         },
@@ -538,178 +1099,25 @@
       ]
     },
     {
-      "id": "e7d6c465fb59ba91",
-      "slug": "2026-09-21-etf-1-4",
-      "title": "连续四周净流入遭终结，以太坊现货 ETF 上周净流出 1.4 亿美元",
-      "originalTitle": "连续四周净流入遭终结，以太坊现货 ETF 上周净流出 1.4 亿美元",
-      "seoTitle": "连续四周净流入遭终结，以太坊现货 ETF 上周净流出 1.4 亿美元 | 以太坊新闻",
-      "seoDescription": "连续四周净流入遭终结，以太坊现货 ETF 上周净流出 1.4 亿美元。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻与以太坊、ERC20 资产或智能合约生态有关，可帮助用户理解不同网络资产的差异。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Ethereum",
-      "keyword": "以太坊新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c20f-0946-7546-ad67-9a624ca91d6b",
-      "publishedAt": "2026-09-21T03:42:00.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，据 SoSoValue 数据，上周交易日（美东时间 9月14日至9月18日）以太坊现货 ETF 净流出 1.40 亿美元。 上周净流出最多的以太坊现货 ETF 为贝莱德（Blackrock）ETF ETHA，周度净流出为 5604.56 万美元，目前 ETHA 历史总净流入达 129.60 亿美元；其次为 Bitwise ETF ETHW，周度净流出为 3308.21 万美元，目前 ETHW 历史总净流入达 3.94 亿美元。",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，据 SoSoValue 数据，上周交易日（美东时间 9月14日至9月18日）以太坊现货 ETF 净流出 1.40 亿美元。 上周净流出最多的以太坊现货 ETF 为贝莱德（Blackrock）ETF ETHA，周度净流出为 5604.56 万美元，目前 ETHA 历史总净流入达 129.60 亿美元；其次为 Bitwise ETF ETHW，周度净流出为 3308.21 万美元，目前 ETHW 历史总净流入达 3.94 亿美元。",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：以太坊新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "如果新闻涉及 ERC20 代币或 Gas 费用，转账时要区分 ERC20 与 TRC20，避免把同名资产发到错误网络。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "03e9e4a262c3beaf",
-      "slug": "2026-09-21-etf-621-37-ibit-1-21",
-      "title": "比特币现货ETF上周净流入621.37万美元，贝莱德IBIT净流入1.21亿美元居首",
-      "originalTitle": "比特币现货ETF上周净流入621.37万美元，贝莱德IBIT净流入1.21亿美元居首",
-      "seoTitle": "比特币现货ETF上周净流入621.37万美元，贝莱德IBIT净流入1.21亿美元居首 | 比特币新闻",
-      "seoDescription": "比特币现货ETF上周净流入621.37万美元，贝莱德IBIT净流入1.21亿美元居首。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Bitcoin",
-      "keyword": "比特币新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c20e-51bd-7487-85e9-eb60a5b4cf0c",
-      "publishedAt": "2026-09-21T03:41:00.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，据 SoSoValue 数据，上周交易日（美东时间 9月14日至9月18日）比特币现货 ETF 净流入 621.37 万美元。 上周净流入最多的比特币现货 ETF 为贝莱德（Blackrock）ETF IBIT，周度净流入为 1.21 亿美元，目前 IBIT 历史总净流入达 641.20 亿美元；其次为富达（Fidelity）ETF FBTC，周度净流入为 7993.48 万美元，目前 FBTC 历史总净流入达 103.60 亿美元。",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，据 SoSoValue 数据，上周交易日（美东时间 9月14日至9月18日）比特币现货 ETF 净流入 621.37 万美元。 上周净流入最多的比特币现货 ETF 为贝莱德（Blackrock）ETF IBIT，周度净流入为 1.21 亿美元，目前 IBIT 历史总净流入达 641.20 亿美元；其次为富达（Fidelity）ETF FBTC，周度净流入为 7993.48 万美元，目前 FBTC 历史总净流入达 103.60 亿美元。",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：比特币新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "比特币消息常会影响整个加密市场情绪，但单条新闻不能作为投资依据，仍需要结合链上数据和公开来源交叉判断。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "dc41571771fecf93",
-      "slug": "2026-09-21-kalshi",
-      "title": "Kalshi否认永续合约交易数据造假：需区分预测市场与永续合约",
-      "originalTitle": "Kalshi否认永续合约交易数据造假：需区分预测市场与永续合约",
-      "seoTitle": "Kalshi否认永续合约交易数据造假：需区分预测市场与永续合约 | 以太坊新闻",
-      "seoDescription": "Kalshi否认永续合约交易数据造假：需区分预测市场与永续合约。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻与以太坊、ERC20 资产或智能合约生态有关，可帮助用户理解不同网络资产的差异。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Ethereum",
-      "keyword": "以太坊新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c203-1486-7556-b98f-e08318959d2b",
-      "publishedAt": "2026-09-21T03:29:00.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，针对“Kalshi 永续合约市场成交量造假”的推文，Kalshi 加密业务负责人 IcoBeast.eth 回应称，Beni 引用的 Artemis 图表是预测市场份额，并非永续合约。Kalshi 不对加密预测市场提供返佣。合约名义本金的计算方式与 Polymarket 等预测市场一致，可直接对比。针对永续合约部分，自清算成员（Self-Clearing Member）并非由 Kalshi 指定，任何人只要符合 CFTC 监管要求均可成为，公平接入是监管要求。所有交易所（包括 CME、...",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，针对“Kalshi 永续合约市场成交量造假”的推文，Kalshi 加密业务负责人 IcoBeast.eth 回应称，Beni 引用的 Artemis 图表是预测市场份额，并非永续合约。Kalshi 不对加密预测市场提供返佣。合约名义本金的计算方式与 Polymarket 等预测市场一致，可直接对比。针对永续合约部分，自清算成员（Self-Clearing Member）并非由 Kalshi 指定，任何人只要符合 CFTC 监管要求均可成为，公平接入是监管要求。所有交易所（包括 CME、...",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：以太坊新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "如果新闻涉及 ERC20 代币或 Gas 费用，转账时要区分 ERC20 与 TRC20，避免把同名资产发到错误网络。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "ae6af6833312d9dc",
-      "slug": "2026-09-21-trump-8-okx-275-600",
-      "title": "TRUMP团队8小时前向OKX转入275万枚代币，两天累计转移600万枚",
-      "originalTitle": "TRUMP团队8小时前向OKX转入275万枚代币，两天累计转移600万枚",
-      "seoTitle": "TRUMP团队8小时前向OKX转入275万枚代币，两天累计转移600万枚 | 区块链新闻",
-      "seoDescription": "TRUMP团队8小时前向OKX转入275万枚代币，两天累计转移600万枚。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "id": "e22cb757e692e769",
+      "slug": "2026-09-28-doctor-profit-qnt",
+      "title": "交易员Doctor Profit：已止盈清仓QNT，有大户私下抛售却公开呼吁散户买入",
+      "originalTitle": "交易员Doctor Profit：已止盈清仓QNT，有大户私下抛售却公开呼吁散户买入",
+      "seoTitle": "交易员Doctor Profit：已止盈清仓QNT，有大户私下抛售却公开呼吁散户买入 | 区块链新闻",
+      "seoDescription": "交易员Doctor Profit：已止盈清仓QNT，有大户私下抛售却公开呼吁散户买入。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
       "topic": "Blockchain",
       "keyword": "区块链新闻",
       "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c1f5-2d28-779e-a8de-7a03cdfe24e9",
-      "publishedAt": "2026-09-21T03:14:00.000Z",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e5ff-003c-7127-9a62-1de5602d2d3a",
+      "publishedAt": "2026-09-28T03:11:00.000Z",
       "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，据余烬监测，TRUMP 代币团队地址 8 小时前再次向 OKX 转入 275 万枚 TRUMP，价值约 569 万美元。过去 2 天，该团队地址已累计向 OKX 转入 600 万枚 TRUMP，价值约 1259 万美元。",
+      "summary": "PANews 9月28日消息，加密交易员 Doctor Profit 发文表示，“已将所有 QNT 获利了结。QNT 短短几天内价格从 50 美元飙升至 374 美元，涨幅惊人。更有趣的是，我看到 X 上的许多人一边说服自己不要卖出，一边却极力鼓吹他人继续买入。高昂的资金费率也表明市场上存在大量拥挤的多头仓位。这种环境让我感到不安，尤其是考虑到一些大户在私下抛售的同时，却仍在公开呼吁买入。尊重每个人的决定，但我倾向于公开自己的操作。即便我卖早了、后续价格继续上涨，我也对自己的决定感到满意。”",
       "sections": [
         {
           "title": "新闻概览",
           "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，据余烬监测，TRUMP 代币团队地址 8 小时前再次向 OKX 转入 275 万枚 TRUMP，价值约 569 万美元。过去 2 天，该团队地址已累计向 OKX 转入 600 万枚 TRUMP，价值约 1259 万美元。",
+            "PANews 发布的这条消息提到：PANews 9月28日消息，加密交易员 Doctor Profit 发文表示，“已将所有 QNT 获利了结。QNT 短短几天内价格从 50 美元飙升至 374 美元，涨幅惊人。更有趣的是，我看到 X 上的许多人一边说服自己不要卖出，一边却极力鼓吹他人继续买入。高昂的资金费率也表明市场上存在大量拥挤的多头仓位。这种环境让我感到不安，尤其是考虑到一些大户在私下抛售的同时，却仍在公开呼吁买入。尊重每个人的决定，但我倾向于公开自己的操作。即便我卖早了、后续价格继续上涨，我也对自己的决定感到满意。”",
             "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
           ]
         },
@@ -718,7 +1126,7 @@
           "points": [
             "主题方向：区块链新闻",
             "信息来源：PANews",
-            "发布时间：2026/09/21",
+            "发布时间：2026/09/28",
             "建议结合原文、链上浏览器和官方公告交叉确认"
           ]
         },
@@ -742,25 +1150,25 @@
       ]
     },
     {
-      "id": "73293cb0d0411a0e",
-      "slug": "2026-09-21-73293cb0d0411a0e",
-      "title": "苹果和谷歌正招聘稳定币相关职位，以探索新的支付和金融业务",
-      "originalTitle": "苹果和谷歌正招聘稳定币相关职位，以探索新的支付和金融业务",
-      "seoTitle": "苹果和谷歌正招聘稳定币相关职位，以探索新的支付和金融业务 | 区块链新闻",
-      "seoDescription": "苹果和谷歌正招聘稳定币相关职位，以探索新的支付和金融业务。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "id": "826a010f51f992bd",
+      "slug": "2026-09-28-paid-x-money",
+      "title": "Paid暂停X Money支付服务，将上线网页版申领门户作为过渡方案",
+      "originalTitle": "Paid暂停X Money支付服务，将上线网页版申领门户作为过渡方案",
+      "seoTitle": "Paid暂停X Money支付服务，将上线网页版申领门户作为过渡方案 | 区块链新闻",
+      "seoDescription": "Paid暂停X Money支付服务，将上线网页版申领门户作为过渡方案。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
       "topic": "Blockchain",
       "keyword": "区块链新闻",
       "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c1e7-cab6-7314-9a4d-3330da5d78af",
-      "publishedAt": "2026-09-21T02:59:00.000Z",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e5f6-cbe0-7544-ba1b-5c5f87480988",
+      "publishedAt": "2026-09-28T03:02:00.000Z",
       "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，据 Bloomingbit，苹果和谷歌正在招聘具备稳定币及代币化存款领域专业知识的人才，以填补金融与支付相关的职位空缺。两家公司正评估将数字资产基础设施应用于支付及金融业务，但目前没有证据表明其计划发行自有稳定币或推出具体服务。 苹果于 8 月 26 日发布了一则位于美国的招聘启事，职位为“Apple Pay 金融产品策略负责人”。该职位负责制定公司金融服务（包括 Apple Card 和 Apple Cash）的中长期战略，并挖掘新的业务增长点。苹果将具备稳定币、代币化存款及区块链技...",
+      "summary": "PANews 9月28日消息，Paid 发文表示，由于目前正在处理支付相关问题，X Money 的支付服务已暂停。现有账户余额处于安全状态，相关费用将继续产生。在全面恢复支付服务期间，将尽快上线网页版申领门户作为过渡方案。",
       "sections": [
         {
           "title": "新闻概览",
           "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，据 Bloomingbit，苹果和谷歌正在招聘具备稳定币及代币化存款领域专业知识的人才，以填补金融与支付相关的职位空缺。两家公司正评估将数字资产基础设施应用于支付及金融业务，但目前没有证据表明其计划发行自有稳定币或推出具体服务。 苹果于 8 月 26 日发布了一则位于美国的招聘启事，职位为“Apple Pay 金融产品策略负责人”。该职位负责制定公司金融服务（包括 Apple Card 和 Apple Cash）的中长期战略，并挖掘新的业务增长点。苹果将具备稳定币、代币化存款及区块链技...",
+            "PANews 发布的这条消息提到：PANews 9月28日消息，Paid 发文表示，由于目前正在处理支付相关问题，X Money 的支付服务已暂停。现有账户余额处于安全状态，相关费用将继续产生。在全面恢复支付服务期间，将尽快上线网页版申领门户作为过渡方案。",
             "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
           ]
         },
@@ -769,7 +1177,7 @@
           "points": [
             "主题方向：区块链新闻",
             "信息来源：PANews",
-            "发布时间：2026/09/21",
+            "发布时间：2026/09/28",
             "建议结合原文、链上浏览器和官方公告交叉确认"
           ]
         },
@@ -793,127 +1201,25 @@
       ]
     },
     {
-      "id": "a765d2da87805e1b",
-      "slug": "2026-09-21-8600-btc-eth",
-      "title": "某巨鲸将价值超8600万美元的比特币轮换至以太坊，并全额质押",
-      "originalTitle": "某巨鲸将价值超8600万美元的BTC轮换至ETH，并全额质押",
-      "seoTitle": "某巨鲸将价值超8600万美元的比特币轮换至以太坊，并全额质押 | 比特币新闻",
-      "seoDescription": "某巨鲸将价值超8600万美元的比特币轮换至以太坊，并全额质押。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Bitcoin",
-      "keyword": "比特币新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c1cf-1ec3-7747-b8cd-f08dd84a3b02",
-      "publishedAt": "2026-09-21T02:32:00.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，据 Lookonchain 监测，过去 5 天里，某神秘巨鲸在 Hyperliquid 上卖出了 1,107 枚 BTC（价值 8,676 万美元），随后买入 34,422 枚 ETH（价值 8,650 万美元）并进行了全额质押。",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，据 Lookonchain 监测，过去 5 天里，某神秘巨鲸在 Hyperliquid 上卖出了 1,107 枚 BTC（价值 8,676 万美元），随后买入 34,422 枚 ETH（价值 8,650 万美元）并进行了全额质押。",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：比特币新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "比特币消息常会影响整个加密市场情绪，但单条新闻不能作为投资依据，仍需要结合链上数据和公开来源交叉判断。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "b63b3cf1c80bc83e",
-      "slug": "2026-09-21-btc-8-2",
-      "title": "加密市场普遍上涨，比特币一度突破8.2万美元",
-      "originalTitle": "加密市场普遍上涨，BTC一度突破8.2万美元",
-      "seoTitle": "加密市场普遍上涨，比特币一度突破8.2万美元 | 比特币新闻",
-      "seoDescription": "加密市场普遍上涨，比特币一度突破8.2万美元。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Bitcoin",
-      "keyword": "比特币新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c1c4-bc08-7752-98f5-5d76ac65c4ed",
-      "publishedAt": "2026-09-21T02:21:00.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，根据SoSoValue数据，加密市场板块普遍上涨，Layer1板块表现突出，24小时上涨2.70%，其中，NEAR Protocol（NEAR）上涨16.44%，Avalanche（AVAX）上涨15.37%，Sui（SUI）上涨9.78%。同时，Bitcoin（BTC）上涨0.25%，盘中突破8.1万美元；Ethereum（ETH）上涨2.08%，一度突破2700美元。 值得注意的是，MAG7.ssi上涨0.90%，DEFI.ssi上涨2.76%，MEME.ssi上涨1.63%。",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，根据SoSoValue数据，加密市场板块普遍上涨，Layer1板块表现突出，24小时上涨2.70%，其中，NEAR Protocol（NEAR）上涨16.44%，Avalanche（AVAX）上涨15.37%，Sui（SUI）上涨9.78%。同时，Bitcoin（BTC）上涨0.25%，盘中突破8.1万美元；Ethereum（ETH）上涨2.08%，一度突破2700美元。 值得注意的是，MAG7.ssi上涨0.90%，DEFI.ssi上涨2.76%，MEME.ssi上涨1.63%。",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：比特币新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "比特币消息常会影响整个加密市场情绪，但单条新闻不能作为投资依据，仍需要结合链上数据和公开来源交叉判断。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "ad0924aa838245be",
-      "slug": "2026-09-21-meta-facebook-instagram",
-      "title": "Meta旗下Facebook与Instagram美国用户遭遇服务中断",
-      "originalTitle": "Meta旗下Facebook与Instagram美国用户遭遇服务中断",
-      "seoTitle": "Meta旗下Facebook与Instagram美国用户遭遇服务中断 | 区块链新闻",
-      "seoDescription": "Meta旗下Facebook与Instagram美国用户遭遇服务中断。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
+      "id": "947fbfe76d2a3e81",
+      "slug": "2026-09-28-4200",
+      "title": "现货黄金跌破4200美元关口",
+      "originalTitle": "现货黄金跌破4200美元关口",
+      "seoTitle": "现货黄金跌破4200美元关口 | 区块链新闻",
+      "seoDescription": "现货黄金跌破4200美元关口。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
+      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/28 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
       "topic": "Blockchain",
       "keyword": "区块链新闻",
       "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c1be-3b0f-75d6-826a-07e2d0828202",
-      "publishedAt": "2026-09-21T02:14:00.000Z",
+      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0e5f0-d45a-7461-9f06-74c832f6afed",
+      "publishedAt": "2026-09-28T02:56:00.000Z",
       "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，据金十报道，网络状况监测网站DownDetector显示，Meta Platforms(META.O)旗下社交平台Facebook和Instagram当地时间周日在美国出现服务中断，影响了数千名用户。Downdetector通过汇总来自多个来源的状态报告来追踪服务中断情况；数据显示，截至美东时间晚上9点11分（北京时间今日09:11），有关Facebook故障的报告超过17,000起，Instagram也出现了超过5,000起服务中断报告。",
+      "summary": "PANews 9月28日消息，现货黄金跌破4200美元/盎司整数关口，现报4195.74美元，日内跌幅2.08%。",
       "sections": [
         {
           "title": "新闻概览",
           "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，据金十报道，网络状况监测网站DownDetector显示，Meta Platforms(META.O)旗下社交平台Facebook和Instagram当地时间周日在美国出现服务中断，影响了数千名用户。Downdetector通过汇总来自多个来源的状态报告来追踪服务中断情况；数据显示，截至美东时间晚上9点11分（北京时间今日09:11），有关Facebook故障的报告超过17,000起，Instagram也出现了超过5,000起服务中断报告。",
+            "PANews 发布的这条消息提到：PANews 9月28日消息，现货黄金跌破4200美元/盎司整数关口，现报4195.74美元，日内跌幅2.08%。",
             "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
           ]
         },
@@ -922,7 +1228,7 @@
           "points": [
             "主题方向：区块链新闻",
             "信息来源：PANews",
-            "发布时间：2026/09/21",
+            "发布时间：2026/09/28",
             "建议结合原文、链上浏览器和官方公告交叉确认"
           ]
         },
@@ -930,312 +1236,6 @@
           "title": "对 USDT 与链上查询用户的参考意义",
           "paragraphs": [
             "阅读这类新闻时，应优先核对公开来源、事件时间和链上证据，避免只凭标题判断风险或机会。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "259951fb418dd366",
-      "slug": "2026-09-21-9-20-9-21",
-      "title": "昨夜今晨重要资讯（9月20日-9月21日）",
-      "originalTitle": "昨夜今晨重要资讯（9月20日-9月21日）",
-      "seoTitle": "昨夜今晨重要资讯（9月20日-9月21日） | 以太坊新闻",
-      "seoDescription": "昨夜今晨重要资讯（9月20日-9月21日）。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻与以太坊、ERC20 资产或智能合约生态有关，可帮助用户理解不同网络资产的差异。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Ethereum",
-      "keyword": "以太坊新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c1b1-0a68-7092-a5e2-ad74a19508aa",
-      "publishedAt": "2026-09-21T02:05:00.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "XPL、H、SOSO等代币将迎来大额解锁，其中XPL解锁价值约1.58亿美元；ZetaChain提案高票通过，ZETA将迁移至Solana；Vitalik确认亮相ETHShanghai 2026，将发表主旨演讲。",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "PANews 发布的这条消息提到：XPL、H、SOSO等代币将迎来大额解锁，其中XPL解锁价值约1.58亿美元；ZetaChain提案高票通过，ZETA将迁移至Solana；Vitalik确认亮相ETHShanghai 2026，将发表主旨演讲。",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：以太坊新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "如果新闻涉及 ERC20 代币或 Gas 费用，转账时要区分 ERC20 与 TRC20，避免把同名资产发到错误网络。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "5e5d4a00417ff6cb",
-      "slug": "2026-09-21-2960-eth-229",
-      "title": "某地址2960万美元以太坊多单扭亏转盈，目前浮盈229万美元",
-      "originalTitle": "某地址2960万美元ETH多单扭亏转盈，目前浮盈229万美元",
-      "seoTitle": "某地址2960万美元以太坊多单扭亏转盈，目前浮盈229万美元 | 以太坊新闻",
-      "seoDescription": "某地址2960万美元以太坊多单扭亏转盈，目前浮盈229万美元。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻与以太坊、ERC20 资产或智能合约生态有关，可帮助用户理解不同网络资产的差异。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Ethereum",
-      "keyword": "以太坊新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c1a9-4fa4-7181-98ec-3f29ed73c365",
-      "publishedAt": "2026-09-21T01:51:00.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，据 Arkham 监测，交易员 0x0c5 在 Hyperliquid 平台上持有价值 2960 万美元的 ETH 多头仓位（20 倍杠杆，入场价 2482.2 美元），该仓位建立于三周前。四天前，该仓位曾处于约 160 万美元的浮亏状态。随着今日 ETH 上涨 5.5%，其目前已浮盈 229 万美元。",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，据 Arkham 监测，交易员 0x0c5 在 Hyperliquid 平台上持有价值 2960 万美元的 ETH 多头仓位（20 倍杠杆，入场价 2482.2 美元），该仓位建立于三周前。四天前，该仓位曾处于约 160 万美元的浮亏状态。随着今日 ETH 上涨 5.5%，其目前已浮盈 229 万美元。",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：以太坊新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "如果新闻涉及 ERC20 代币或 Gas 费用，转账时要区分 ERC20 与 TRC20，避免把同名资产发到错误网络。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "ebb7b09511e2f498",
-      "slug": "2026-09-21-north-korean-fake-recruiters-infect-30k-devices-steal-",
-      "title": "North Korean fake recruiters infect 30K devices, steal...",
-      "originalTitle": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
-      "seoTitle": "North Korean fake recruiters infect 30K devices, steal... | 区块链新闻",
-      "seoDescription": "North Korean fake recruiters infect 30K devices, steal...。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 Cointelegraph 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Blockchain",
-      "keyword": "区块链新闻",
-      "source": "Cointelegraph",
-      "sourceUrl": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-09-21T01:42:53.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "North Korean cyber group WaterPlum targeted developers with fake jobs at crypto, AI and NFT companies, infecting at least 30,000 devices across more than 100 countries.",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "Cointelegraph 发布的这条消息提到：North Korean cyber group WaterPlum targeted developers with fake jobs at crypto, AI and NFT companies, infecting at least 30,000 devices across more than 100 countries.",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：区块链新闻",
-            "信息来源：Cointelegraph",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "阅读这类新闻时，应优先核对公开来源、事件时间和链上证据，避免只凭标题判断风险或机会。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "beffd98b19427b73",
-      "slug": "2026-09-21-btc-82000-1-37",
-      "title": "比特币突破82000美元，日内涨幅 1.37%",
-      "originalTitle": "BTC突破82000美元，日内涨幅 1.37%",
-      "seoTitle": "比特币突破82000美元，日内涨幅 1.37% | 比特币新闻",
-      "seoDescription": "比特币突破82000美元，日内涨幅 1.37%。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻围绕比特币市场、机构持仓或链上数据展开，是观察加密资产整体情绪的重要线索。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Bitcoin",
-      "keyword": "比特币新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c18f-0c2b-725e-98a8-703da773f022",
-      "publishedAt": "2026-09-21T01:22:52.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，欧易OKX行情显示，BTC刚刚突破82000美元，现报82022.50美元/枚，日内涨幅 1.37%。",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，欧易OKX行情显示，BTC刚刚突破82000美元，现报82022.50美元/枚，日内涨幅 1.37%。",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：比特币新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "比特币消息常会影响整个加密市场情绪，但单条新闻不能作为投资依据，仍需要结合链上数据和公开来源交叉判断。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "307988e7b0ac9460",
-      "slug": "2026-09-21-0g-compute-finance-ascend-ai",
-      "title": "0G推出Compute Finance算力金融体系，Ascend上线支持质押资产获取AI算力",
-      "originalTitle": "0G推出Compute Finance算力金融体系，Ascend上线支持质押资产获取AI算力",
-      "seoTitle": "0G推出Compute Finance算力金融体系，Ascend上线支持质押资产获取AI算力 | 区块链新闻",
-      "seoDescription": "0G推出Compute Finance算力金融体系，Ascend上线支持质押资产获取AI算力。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻来自公开区块链媒体，内容与加密资产、链上生态或数字资产市场有关。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Blockchain",
-      "keyword": "区块链新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c190-d7dd-72c9-941a-7679e36be564",
-      "publishedAt": "2026-09-21T01:21:00.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，AI 信任层与前沿 AI 实验室 0G 今日推出 Compute Finance（算力金融，简称 ComFi），这是一个面向 AI 的全新金融层，让用户能够赚取真正可以使用的 AI 算力。资产不再只是产生利息或代币：在 ComFi 模式下，数字资产可以生成可在各类 AI 服务中消费的算力使用权。此次发布同时伴随 0G 流动性质押产品 Ascend 的上线，以及全新算力型数字资产 Infinite AI（iAI）的亮相，后者计划于 9 月 29 日正式推出。",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，AI 信任层与前沿 AI 实验室 0G 今日推出 Compute Finance（算力金融，简称 ComFi），这是一个面向 AI 的全新金融层，让用户能够赚取真正可以使用的 AI 算力。资产不再只是产生利息或代币：在 ComFi 模式下，数字资产可以生成可在各类 AI 服务中消费的算力使用权。此次发布同时伴随 0G 流动性质押产品 Ascend 的上线，以及全新算力型数字资产 Infinite AI（iAI）的亮相，后者计划于 9 月 29 日正式推出。",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：区块链新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "阅读这类新闻时，应优先核对公开来源、事件时间和链上证据，避免只凭标题判断风险或机会。",
-            "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
-          ]
-        }
-      ],
-      "faq": [
-        {
-          "question": "这篇文章是原文全文翻译吗？",
-          "answer": "不是。本站不会复制外媒全文，而是根据公开 RSS 信息生成中文摘要、要点和阅读提示，并保留原文链接，方便用户核对来源。"
-        },
-        {
-          "question": "新闻能证明某个地址安全吗？",
-          "answer": "不能。新闻和链上记录只能提供参考，不能单独证明地址所有者身份、资金来源或合规结论。涉及转账时仍要核对完整地址、网络和官方来源。"
-        }
-      ]
-    },
-    {
-      "id": "225dc53788b44f79",
-      "slug": "2026-09-21-8-eth-370-2000-eth",
-      "title": "8月卖出以太坊盈利370万美元的巨鲸重新买入2000万美元以太坊",
-      "originalTitle": "8月卖出ETH盈利370万美元的巨鲸重新买入2000万美元ETH",
-      "seoTitle": "8月卖出以太坊盈利370万美元的巨鲸重新买入2000万美元以太坊 | 以太坊新闻",
-      "seoDescription": "8月卖出以太坊盈利370万美元的巨鲸重新买入2000万美元以太坊。查U地址每周自动整理区块链新闻，提供中文摘要、要点、影响解读和原文来源，适合关注USDT、钱包与链上安全的用户。",
-      "excerpt": "这条新闻与以太坊、ERC20 资产或智能合约生态有关，可帮助用户理解不同网络资产的差异。 本文根据 PANews 于 2026/09/21 发布的公开信息整理，提供中文摘要、关键信息和阅读提示。",
-      "topic": "Ethereum",
-      "keyword": "以太坊新闻",
-      "source": "PANews",
-      "sourceUrl": "https://www.panewslab.com/zh/articles/01a0c187-03cf-72c0-8bd2-7b8ebb655182",
-      "publishedAt": "2026-09-21T01:13:00.000Z",
-      "readTime": "约 3 分钟",
-      "summary": "PANews 9月21日消息，据链上分析师余烬监测，在 8 月份卖出 ETH 盈利 370 万美元的巨鲸，今天重新追涨了 ETH。该鲸鱼过去 1 小时里把 4000 万 USDC 转进 Binance，目前已从 Binance 提出 7,567 枚 ETH，价值 2000 万美元。",
-      "sections": [
-        {
-          "title": "新闻概览",
-          "paragraphs": [
-            "PANews 发布的这条消息提到：PANews 9月21日消息，据链上分析师余烬监测，在 8 月份卖出 ETH 盈利 370 万美元的巨鲸，今天重新追涨了 ETH。该鲸鱼过去 1 小时里把 4000 万 USDC 转进 Binance，目前已从 Binance 提出 7,567 枚 ETH，价值 2000 万美元。",
-            "查U地址将这类公开消息整理为中文站内文章，方便中文用户快速了解事件背景，并保留原文链接用于继续核对。"
-          ]
-        },
-        {
-          "title": "关键信息",
-          "points": [
-            "主题方向：以太坊新闻",
-            "信息来源：PANews",
-            "发布时间：2026/09/21",
-            "建议结合原文、链上浏览器和官方公告交叉确认"
-          ]
-        },
-        {
-          "title": "对 USDT 与链上查询用户的参考意义",
-          "paragraphs": [
-            "如果新闻涉及 ERC20 代币或 Gas 费用，转账时要区分 ERC20 与 TRC20，避免把同名资产发到错误网络。",
             "如果新闻涉及交易所、钱包、稳定币或安全事件，用户查询地址时应重点核对交易方向、金额、时间、交易哈希和网络类型。本站只读取公开链上数据，不保存查询历史，也不要求连接钱包。"
           ]
         }
