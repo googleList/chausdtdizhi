@@ -1,77 +1,26 @@
-# 链迹
+# RankLab 模板整理版
 
-一个可部署到 GitHub Pages 的 TRON USDT 地址查询网站。输入 TRON 地址后，可查看：
+## 目录
+- `index.html`：首页（原始抓取到的 index-3 首页变体）
+- `pages/`：已抓取到的 10 个内页
+- `assets/css/`：统一 CSS 文件（修正 custom-animation 命名）
+- `assets/js/`：统一 JS 文件（修正 custom-carousel 命名，已清理 BootstrapMB 注入的跳转/演示提示）
+- `assets/images/`：合并整理后的图片资源
+- `assets/fonts/`：字体目录（原始抓取包未包含字体文件）
+- `assets/vendor/`：预留第三方依赖目录
 
-- TRC20 USDT 余额
-- USDT 人民币参考估值
-- TRX 余额
-- 地址激活时间
-- 最近确认的 USDT 转入与转出记录
-- 交易分页和 TRONSCAN 核验链接
+## 已处理
+1. 将页面整理为统一文件名，清除 `.下载` 等下载后缀。
+2. 页面资源引用统一指向 `assets/css`、`assets/js` 和 `assets/images`。
+3. 移除外层 BootstrapMB 预览壳、统计/预览脚本引用和反下载跳转逻辑。
+4. 修复 Owl Carousel 导航箭头的错误 HTML，补充可见的箭头样式。
+5. 为原始 AJAX 表单脚本提供本地安全提示，避免跳转到模板站。
+6. 修正已抓取页面之间的导航链接。
 
-数据来自 TRON 官方 TronGrid 主网 API。网站只读取公开链上数据，不接触钱包、私钥或授权。
-
-## 本地运行
-
-需要 Node.js 20.9 或更高版本。
-
-```bash
-npm install
-cp .env.example .env.local
-npm run dev
-```
-
-打开 `http://localhost:3000`。
-
-## 环境变量
-
-公开 TronGrid API 不配置密钥也可使用，但限流较低。可选在
-[TronGrid](https://www.trongrid.io/) 申请 API Key：
-
-```env
-NEXT_PUBLIC_TRONGRID_API_KEY=your_key
-NEXT_PUBLIC_SITE_URL=https://your-domain.com
-GOOGLE_SITE_VERIFICATION=your_google_token
-```
-
-GitHub Pages 是纯静态托管，因此该 Key 会被打包到浏览器代码中。它不是钱包私钥，
-但任何访客都可以查看和使用它。若不接受公开，请不要配置。
-
-`NEXT_PUBLIC_SITE_URL` 用于生成 Google 可识别的 canonical、`robots.txt`
-和 `sitemap.xml`。绑定正式域名后必须填写实际 HTTPS 地址。
-
-## 部署到 GitHub Pages
-
-1. 在 GitHub 创建仓库并推送本项目。
-2. 打开仓库的 `Settings` → `Pages`。
-3. 将 `Build and deployment` 的 Source 设为 `GitHub Actions`。
-4. 推送到 `main` 或 `master` 分支。
-5. 等待 `Deploy to GitHub Pages` 工作流完成。
-
-工作流会自动识别普通项目仓库的子路径，例如：
-
-```text
-https://用户名.github.io/仓库名/
-```
-
-查询请求由访客浏览器直接发送到 TronGrid 和公开汇率 API，不需要服务器。
-
-如需使用 API Key，在仓库 `Settings` → `Secrets and variables` → `Actions`
-中添加名为 `TRONGRID_API_KEY` 的 Secret。该值最终仍会公开在前端代码中。
-
-## 自动化
-
-- `ci.yml`：运行测试、ESLint 和静态生产构建。
-- `pages.yml`：构建 `out` 目录并发布到 GitHub Pages。
-
-## 上线检查
-
-- 绑定正式域名并启用 HTTPS。
-- 确认浏览器可以直接访问 TronGrid API。
-- 在 Vercel Analytics 或其他平台添加隐私友好的访问统计。
-- 根据实际运营主体补充隐私政策、服务条款与备案信息。
-- 如面向中国大陆用户提供服务，按服务器所在地和业务性质确认备案及合规要求。
-
-## 说明
-
-余额和转账数据以 TRON 主网最新已确认区块为准。页面中的收支汇总仅统计当前已加载的记录，不代表地址完整历史总额。
+## 文件检查结果
+- 原始 ZIP：576 个条目，压缩包 CRC 检查通过。
+- 已整理页面：11 个 HTML 文件。
+- 本地 HTML 对 CSS、JS、图片的直接引用：检查后未发现缺失引用。
+- JavaScript 语法：18 个 JS 文件全部通过 Node.js `--check` 语法检查。
+- 注意：原始抓取资源不完整，CSS 中仍引用若干未随抓取包保存的背景图片（如 `hero-bg3.png`、`breadcumb.png`）及图标字体文件。这些属于源抓取缺失资源，无法从压缩包恢复。部分装饰背景或字体图标可能需要用原始授权源码包补齐。
+- 目前完成的是文件层面检查，未在真实浏览器环境中做所有设备/所有轮播场景的视觉验收。
